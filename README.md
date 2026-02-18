@@ -9,10 +9,10 @@ and learning new technologies through practical projects.
 ---
 
 ##  Skills
-- Python, Java, C  
+- Python, C  
 - Pandas, NumPy, Matplotlib, Seaborn  
-- Machine Learning (Basics)  
-- NLP (Text preprocessing, TF-IDF)  
+- Machine Learning  
+- NLP 
 - SQL (Basic), Streamlit  
 - Git, GitHub, Linux, AWS (Basic)
 
